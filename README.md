@@ -4,6 +4,4 @@ Scripts contained in this repository were used to produce the deletion maps and 
 
 DelQuant: Quantifies Deletions from CIGAR strings
 
-Graphmaker: makes the plots.
-
-To be expanded sgnificantly.
+Graphmaker: Creates plots from DelQuant output.
